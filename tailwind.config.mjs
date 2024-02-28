@@ -10,6 +10,8 @@ export default {
 			'text-black': '#20293A',
 			'text-gray': '#6C727F',
 			'design': '#a095af',
+			'border-person': '#8294ab',
+			'black': '#000000',
 		}
 	},
 	plugins: [],
